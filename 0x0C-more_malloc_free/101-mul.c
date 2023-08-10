@@ -48,11 +48,12 @@ void errors(void)
 }
 
  /**
- * main - print the multiplication of two numbers.
- * @argc: number of arguments
+ * main - multiplies two positive numbers
+ * @argc: array length
  * @argv: array of arguments
  *
- * Return: always 0 (Success)
+ * Return: Always 0 (Success)
+ *
  */
 int main(int argc, char *argv[])
 {
