@@ -47,13 +47,12 @@ void errors(void)
 	exit(98);
 }
 
- /**
+/**
  * main - multiplies two positive numbers
- * @argc: array length
+ * @argc: len of arguments
  * @argv: array of arguments
  *
  * Return: Always 0 (Success)
- *
  */
 int main(int argc, char *argv[])
 {
