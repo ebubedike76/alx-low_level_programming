@@ -48,7 +48,7 @@ void errors(void)
 }
 
  /**
- * main - multiplies two positive numbers
+ * main - print the multiplication of two numbers.
  * @argc: number of arguments
  * @argv: array of arguments
  *
